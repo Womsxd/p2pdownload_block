@@ -1,9 +1,9 @@
-#x光下载站 **6下载站 x军下载站
+#x光下载站 **6下载站 x军下载站 xx之家
 ||api.aldtop.com^
 ||downloader.aldtop.com^
 ||resource.aldtop.com^
 ||channel.gameloop.fun^
-#x云下载站 x1下载站
+#x云下载站 x1下载站 上面的补充
 ||downloader.regeeve.com^
 ||dxzbd.51xiazai.cn^
 #x色下线站 **l下载站 *美下载站 x盒下载
