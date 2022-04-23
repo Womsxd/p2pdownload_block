@@ -9,3 +9,6 @@
 #x色下线站 **l下载站 *美下载站 x盒下载
 ||w.nanweng.cn^
 ||cdn.fengdf.cn^
+# 上面的已经成为历史了
+#来自鲁大师的下载器 来源：https://www.wmzhe.com/soft-33033.html
+||softmgr.ludashi.com^
