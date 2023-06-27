@@ -12,3 +12,15 @@
 # 上面的已经成为历史了
 #来自鲁大师的下载器 来源：https://www.wmzhe.com/soft-33033.html
 ||softmgr.ludashi.com^
+
+# 来源:https://soft.3dmgame.com/down/216611.html
+# 下载器:金山
+# 结果:屏蔽后可以让使下载器无法正常工作
+||2398.35go.net^
+||infoc0.duba.net^
+||config.i.duba.net^
+# 来源:http://www.downza.cn/soft/297187.html
+# 下载器:Windsoul
+# 结果:屏蔽后下载器无法正常工作
+||api.nasyeo.com^
+||api.flmgr.net^
